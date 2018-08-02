@@ -12,6 +12,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  cloud_firestore: ^0.7.3     # new
 
 
 # For information on the generic Dart part of this file, see the
